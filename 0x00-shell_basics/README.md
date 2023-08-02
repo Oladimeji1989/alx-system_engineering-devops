@@ -9,4 +9,5 @@
 * mv /tmp/my_first_directory/betty move file to a directory
 * rm /tmp/my_first_directory/betty delete file from a directory
 * rm -r /tmp/my_first_directory delecting directory in /tmp/
-* cd .. move to the previous directory 
+* cd ./ move to the previous directory
+* ls -al . .. /boot 
