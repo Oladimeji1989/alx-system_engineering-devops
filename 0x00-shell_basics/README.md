@@ -18,3 +18,4 @@
 * rm *~  deletes all files in the current working directory that end with the character ~
 * mkdir -p create a directory in the current directory
 * ls -amvp lists all the files and directories of the current directory, separated by commas (,).
+* merging file
