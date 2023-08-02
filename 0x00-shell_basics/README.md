@@ -16,3 +16,4 @@
 * cp -un *.html ../ coping html file not present in parent directory
 * mv [[upper]]* /tmp/u moves all files beginning with an uppercase
 * rm *~  deletes all files in the current working directory that end with the character ~
+* mkdir -p create a directory in the current directory
