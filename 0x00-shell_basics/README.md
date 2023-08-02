@@ -11,3 +11,4 @@
 * rm -r /tmp/my_first_directory delecting directory in /tmp/
 * cd ./ move to the previous directory
 * ls -al . .. /boot 
+* print iamafile
