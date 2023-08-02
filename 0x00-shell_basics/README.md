@@ -5,3 +5,4 @@
 * ls -l Display current directory contents in a long format
 * Display current directory contents, including hidden files (starting with .). Use the long format.
 * ls -lna long format all numeric file displaying
+* mkdir /tmp/my_first_directory 
