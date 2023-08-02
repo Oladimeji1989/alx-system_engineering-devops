@@ -6,4 +6,4 @@
 * Display current directory contents, including hidden files (starting with .). Use the long format.
 * ls -lna long format all numeric file displaying
 * mkdir /tmp/my_first_directory
-* mv /tmp/betty /tmp/my_first_directory 
+* mv /tmp/my_first_directory/betty 
