@@ -13,4 +13,5 @@
 * ls -al . .. /boot 
 * print iamafile
 * ln -s create symbolic link
-* cp -un *.html ../ coping html file not present in parent dir
+* cp -un *.html ../ coping html file not present in parent directory
+* mv [[upper]]* /tmp/u moves all files beginning with an uppercase
