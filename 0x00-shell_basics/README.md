@@ -12,3 +12,4 @@
 * cd ./ move to the previous directory
 * ls -al . .. /boot 
 * print iamafile
+* ln -s create symbolic link
