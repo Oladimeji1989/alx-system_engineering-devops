@@ -1,5 +1,5 @@
-*pwd print current working directory*
-
-*ls list the contents of your current directory*
-
-*cd ~ changing a working directory to user's home*
+# describing what each script is doing 
+* pwd print current working directory
+* ls list the contents of your current directory
+* cd ~ changing a working directory to user's home
+* ls -l Display current directory contents in a long format
