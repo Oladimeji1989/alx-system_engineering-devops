@@ -3,3 +3,4 @@
 * ls list the contents of your current directory
 * cd ~ changing a working directory to user's home
 * ls -l Display current directory contents in a long format
+* Display current directory contents, including hidden files (starting with .). Use the long format.
