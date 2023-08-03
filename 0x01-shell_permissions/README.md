@@ -11,4 +11,5 @@
 * chmod ugo+x hello permission to the owner, the group owner and the other users, to the file hello
 * chmod 007 Other users: all the permissions only
 * chmod 753 -rwxr-x-wx permission in binary
+* chmod --reference=olleh hello
 
