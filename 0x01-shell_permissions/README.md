@@ -17,5 +17,5 @@
 * chgrp school hello
 * chown vincent:staff *
 * chown -h vincent:staff _hello
-* chown --fromguillaume=betty hello change owner with condition
+* chown --from=betty guillaume hello change owner with condition
 * telnet towel.blinkenlights.nl to play starwars iv on terminal
