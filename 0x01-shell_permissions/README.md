@@ -16,4 +16,5 @@
 * mkdir -m 751 my_dir 
 * chgrp school hello
 * chown vincent:staff *
-* chown -h vincent:staff _hello 
+* chown -h vincent:staff _hello
+* chown --fromguillaume=betty hello change owner with condition 
