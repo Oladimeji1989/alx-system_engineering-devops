@@ -15,4 +15,5 @@
 * chmod -R +X
 * mkdir -m 751 my_dir 
 * chgrp school hello
-* chown vincent:staff * 
+* chown vincent:staff *
+* chown -h vincent:staff _hello 
