@@ -5,3 +5,4 @@
 * whoami prints the effective username of the current user
 * groups prints all the groups the current user is part of
 * chown betty hello, change hello file to betty
+* chmod u+X 5-execute change execution right
