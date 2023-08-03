@@ -12,4 +12,5 @@
 * chmod 007 Other users: all the permissions only
 * chmod 753 -rwxr-x-wx permission in binary
 * chmod --reference=olleh hello
+* chmod -a+x 
 
