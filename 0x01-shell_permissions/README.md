@@ -7,3 +7,4 @@
 * chown betty hello, change hello file to betty
 * chmod u+X hello change execution right
 * touch hello create empty file hello
+* chmod Ug+x,o+r hello  execute permission to the owner and the group owner, and read permission to other users, to the file hello
