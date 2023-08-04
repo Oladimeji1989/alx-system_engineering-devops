@@ -12,7 +12,7 @@
 * chmod 007 Other users: all the permissions only
 * chmod 753 -rwxr-x-wx permission in binary
 * chmod --reference=olleh hello
-* chmod -R +X
+* chmod -R +X .
 * mkdir -m 751 my_dir 
 * chgrp school hello
 * chown vincent:staff *
