@@ -9,7 +9,7 @@
 * mv /tmp/betty /tmp/my_first_directory move file to a directory
 * rm /tmp/my_first_directory/betty delete file from a directory
 * rm -r /tmp/my_first_directory delecting directory in /tmp/
-* cd ./ move to the previous directory
+* cd - move to the previous directory
 * ls -al . .. /boot 
 * print iamafile
 * ln -s create symbolic link
