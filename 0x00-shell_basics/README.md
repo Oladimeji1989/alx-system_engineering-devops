@@ -6,7 +6,7 @@
 * Display current directory contents, including hidden files (starting with .). Use the long format.
 * ls -lna long format all numeric file displaying
 * mkdir /tmp/my_first_directory make a directory in another
-* mv /tmp/my_first_directory/betty move file to a directory
+* mv /tmp/betty /tmp/my_first_directory move file to a directory
 * rm /tmp/my_first_directory/betty delete file from a directory
 * rm -r /tmp/my_first_directory delecting directory in /tmp/
 * cd ./ move to the previous directory
