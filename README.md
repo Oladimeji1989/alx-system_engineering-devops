@@ -1,1 +1,5 @@
-*0x00. Shell, basics project*
+# Shell project
+
+* 0x00 shell_basics
+* 0x01 shell_permissions
+* 0x02 shell_redirectorys
